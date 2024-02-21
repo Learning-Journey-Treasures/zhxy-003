@@ -15,7 +15,7 @@
 - 下载源码，解压到本地，通过IDEA工具打开
 - 配置项目中的src/db.properties里的数据库名和账户密码，修改和本地环境一致
 - 创建Tomcat Local server，注意！！！！要设置tomcat配置项中deployment的路径和下图一致
-![](http://blog.cyrobot.top/profile/blog/2024/02/21/6_20240221204458A025.png)
+![输入图片说明](6.png)
 
 启动成功后，打开门户网站 ： http://localhost:8080/team/  账号可自行注册，或者使用测试账号： stu/123
 打开后端页面登录：http://localhost:8080/team/mui/login.jsp  社长账号： 苏秋/123456   管理员账号：admin/123456
