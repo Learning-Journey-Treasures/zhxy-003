@@ -1,39 +1,24 @@
-# 基于JavaWeb的高校社团管理系统
+[点我获取源码](https://x-x.fun/e/OUf380e203kC5)💕🤞
 
-#### 介绍
-功能完整的Java高校社团管理系统源码，前后台都有。角色有：学生、社长、管理员。
+
+[点我查看更多](http://blog.cyrobot.top/blog)💕🤞
+
+#### 1.项目介绍
+- 功能完整的Java高校社团管理系统源码，前后台都有。角色有：学生、社长、管理员。
 - 前台功能：首页，社团列表，社团风采，社团活动，新闻列表，留言，登录注册，个人中心等。
 - 后台功能：个人中心、用户管理、角色管理、菜单管理、留言管理、新闻管理、财务管理、社团列表、社团风采、社团活动、活动申请、学生管理、社团申请等等功能
+- 运行环境：IDEA+tomcat7.0+jdk1.7或以上
+- 技术选型：jsp+servlet
 
-#### 软件架构
-软件架构说明
+#### 2.本地搭建
+- 创建数据库，导入源码中team.sql文件
+- 下载源码，解压到本地，通过IDEA工具打开
+- 配置项目中的src/db.properties里的数据库名和账户密码，修改和本地环境一致
+- 创建Tomcat Local server，注意！！！！要设置tomcat配置项中deployment的路径和下图一致
+![](http://blog.cyrobot.top/profile/blog/2024/02/21/6_20240221204458A025.png)
 
+启动成功后，打开门户网站 ： http://localhost:8080/team/  账号可自行注册，或者使用测试账号： stu/123
+打开后端页面登录：http://localhost:8080/team/mui/login.jsp  社长账号： 苏秋/123456   管理员账号：admin/123456
 
-#### 安装教程
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 使用说明
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
-
-
-#### 特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+#### 3.项目部分截图
+![输入图片说明](1.png)![输入图片说明](2.png)![输入图片说明](3.png)![输入图片说明](4.png)![输入图片说明](5.png)
