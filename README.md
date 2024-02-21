@@ -17,8 +17,8 @@
 - 创建Tomcat Local server，注意！！！！要设置tomcat配置项中deployment的路径和下图一致
 ![输入图片说明](6.png)
 
-启动成功后，打开门户网站 ： http://localhost:8080/team/  账号可自行注册，或者使用测试账号： stu/123
-打开后端页面登录：http://localhost:8080/team/mui/login.jsp  社长账号： 苏秋/123456   管理员账号：admin/123456
+启动成功后，打开门户网站 ： http://localhost:8080/team/  账号可自行注册，或者使用测试账号： stu2 / 123
+打开后端页面登录：http://localhost:8080/team/mui/login.jsp  社长账号： 苏秋 / 123456   管理员账号：admin / 123456
 
 #### 3.项目部分截图
 ![输入图片说明](1.png)![输入图片说明](2.png)![输入图片说明](3.png)![输入图片说明](4.png)![输入图片说明](5.png)
